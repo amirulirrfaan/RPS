@@ -1,0 +1,1 @@
+Debug/ScoreStack.cpp.o Debug/Game.cpp.o Debug/main.cpp.o Debug/GroupInfo.cpp.o   

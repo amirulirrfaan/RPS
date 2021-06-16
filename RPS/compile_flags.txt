@@ -1,0 +1,11 @@
+-IC:\Program
+-IC:\Users\Asus\Desktop\CS Lecture Notes\Sem 2\CPT113\Hackathon 2\RPS\RPS
+-IC:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include\c++
+-IC:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include\c++\mingw32
+-IC:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include\c++\backward
+-IC:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include
+-IC:\Program Files (x86)\CodeBlocks\MinGW\include
+-IC:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include-fixed
+-std=c++14
+-target
+i686-pc-windows-gnu
